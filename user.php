@@ -43,7 +43,7 @@ tapi jika kurang dari itu
 maka system validasi akan berlaku seperti watch earn
 
 demikian sekilas info$putih
-msg_by:$ijo adidoank";
+msg_by:$ijo dodit";
 
 $msgyd = "[!] ganguan pada server jangan panik ini tidak lama";
 $yd_stat = true;
@@ -143,12 +143,12 @@ $data= ['H84391',
 'Andika','Leek Tutoriais','Febri Listio','Faisal Alamsyahh','Faisal Alamsyah','internet news','Gilang\'198 \'','Skyline Missing','Jeff Mamun','Ahmad Fahreji','Akun Veeu2','Naska Ridho','Rizal Anugrah','Lucas Martin Biasi','Den Mas Bagus','New No Name','Akunku Kehack','Aksanjr Jr','YT Zam Lagu','Guris Ceng','Toni Lamon','Lintang Aca','Kharismadani gdz','Guyskid Hastawangi','Bagi ga Gamin','Ifah Latifah','Joyo Bendot','asep mulyana','Bang Slow','aris mulyana','Rima Susanti','Angga15','Excel Pradna','Faiz Yahya','teman Explorer','Dimas Homies','Kapten Vunkky','Upin Ipin','Asep Kurniadi','DANIEL ANCHU','Muhammad Syarif','Putri Andini','RfiRsky12','Ainul Rhamadhan','Rudy Bae','Matrix Mango','Cholid Achmad','mobilelegend87 baru','Arispubji','Amana Putri','Aldi Yahya','aldi yahya','Bong Parl','Deedee','Miftah Fauzy','phellnandhol official','Andy SkyLine','Km Krisnuartha','akun baru','Bakul Gambar','Experimental Music','ПРИКОЛ ГИФ','Cerme Raya','Cahyo Bhudhy','Annas Arya','dhimas aulia','sandika uchiha','Rakha Nurraffa','xangiox','Cokerzz Gamingzz','Rockman Sullivanz','Agus Setiawan','onyip gedang',
 'yogi pratama','Ankaira Pram','Jihan Xfrendz','Purnama Agung','CHRLT Channel','serenamonic1','Lintang Nurul Kh','bento yalle','Faris Hizba Hisbullah','nyoman nyoman','Begger Crypto','Mode Pesawat','Syahrul Taufik','amar arwed','daniel roserbut','Chandra Adi M','Septian Apriansyah (septianaps)','giw pisan','YASER MEDIA','Mirjan Hidayat','ramadoni','Jav Gaming','Rangga Kusum','poli robot','Dicka Setiawan','Rifkii Setiawann','Rifki Setiawan','Ilham Maulana Sukma','Azis Herjunot','ajudantuyul100@gmail.com','Rahul Khan','Fathor Hoir','taofiksar03@gmail.com','Hafri yanto','Rian Enx','Dodi Setiadi',
 //vip
-"W96630",
+"N54577",
 //adidonk 
 'serenamonic1','Adam Ersanur','Wind Ci','Dodi Setiadi','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
 'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana','Red Roseate','Red Roseate','faisal ztm','mobile lengendary',
 //sungging
-'Safitri ,','ANAK TUTORIAL','Azis Herjuno','Dodi Setiadi','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman','Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star','Muhammad Irman Raya','Purwono','Ikbal Kepalasuku Ujungpanrang','baca plus','Lucky Lucky','Zedrik Bam','Rahma Only\'For One\'Heart','Muhammad Zafran Alfariq','Agara Net',
+'Safitri','ANAK TUTORIAL','Azis Herjuno','Dodi Setiadi','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman','Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star','Muhammad Irman Raya','Purwono','Ikbal Kepalasuku Ujungpanrang','baca plus','Lucky Lucky','Zedrik Bam','Rahma Only\'For One\'Heart','Muhammad Zafran Alfariq','Agara Net',
 //input
  'APRI YANTO','Aditya Ramad','Dodi Setiadi','Anun Dwi Yulianto','G62546','E27692',
 'Veranda vee','Miyako Titin','Gugung Jagi','G12717','Sinyorie Enorie','Ventura','Sry Jayaa','Kontoru Sama','Kwarasan Kenapa','Fanss Milyha','game gue','Cemul','Milyha Dipa','Parzy Leor','Alifian Dzaki','Meka Alfin Permana','Tukang Copas','adieb nur hafidz','Milytha Pabji','Ridhos Hago','Ridho YK','Nogotirto YK','tuyul baru1','Thursina Anna','Dja Rot','Dini Suswanti','宙宜尺尹','Krisna Ilham','Yogi Martha','Kristiana Honnie pilsa','N\'chev Jepank','asepairil22@gmail.com','Muh Zuhdi','Kang Roki','Fachrurodzii','Moch Tham','Dìmoka Deo','Faris HariSandy','Muh Zuhdi','Rizaldi Alfian','Roselle Santos','yusufsapta31@gmail.com','Tajul Arifin','Lesley El','Angel Putri','fara ciprit10','Maniac Receh','Alana Basil','EL Frank Ethan','ksupri541@gmail.com','mawar150690@gmail.com','Salsabila','Acek Wew','Kokyu Misariu','Dejon Raon','Joko Sutopo','Barep Pras W',                       'Galuh Prayoga','ramdhan achmad','Aji Saputra Ramadan','Hendra','Dany Catur','EJ','Setya Rangga','Arief Poenya','Ardy LoveHeaven Nabilla','Adi Samsul','Clay Dark','egi pangestu','凡Ɗιs ANDEZ','RANGGEN I-on','joni joni',
