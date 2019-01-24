@@ -1,4 +1,4 @@
-<?php
+ <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
@@ -55,7 +55,7 @@ $msgwe = "[•] update vip versi 2.0 ";
 $msgveeu = "[!] enjoy your life";
 
 $data= ['H84391',
-'adi bordir','L41023','adi doank','I46346','ssunggingg','Dodi Setiadi',
+'adi bordir','L41023','adi doank','I46346','ssunggingg',
  'Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack','Maulana Setiawan','suga zora','Thauvan GT','yassar sha\'id shafi\'i','Moezza 01','စုံလင်သော အလ','hasan coc','Pro Master','hasan abut','gan bro','Yudi Pratmaja','Gembel Elite','imel telu','SkaLova','Badrun','Nhóc Con Sr','Delwin Yoanes',
 'Beuti Lavea','MasterCraft Vn','Ari Sandi','I love Cartoon','Kaboom','Robert Simangunsong','Mohamad Husn',
 'Lucy Thien','Adi Trader Demo','Mif Takhul','Feyy','I Dewa Gede Superatikadewa','Wendik','Qohwah',
@@ -70,11 +70,11 @@ $data= ['H84391',
 'Dila Aas','Bili Aas','Flybird Yuan','Teri Aas',
 'Den Aas','Amin Aas','Wulan Aas','Hasan Aas','Yusri','Fachrul Ejp','ajit vepal','Agus Riyadi',
 'Agus Riyadi Riyadi','Richard Steven Try',
-'Yoviar Pauzi','Ayesha Advocate',
+'Yoviar Pauzi','Ayesha Advocate','Dodi Setiadi',
 //vipm
-'HARIS Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto Rusak','Jorsn Rusak','Jordwun jerdin','Curit Astjx','Hais Suis','Dodi Setiadi',
+'HARIS Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto Rusak','Jorsn Rusak','Jordwun jerdin','Curit Astjx','Hais Suis',
 //mpiv
-'Gem Bel','Hati Yang Terluka','Umi Kholiifah','Dodi Setiadi',
+'Gem Bel','Hati Yang Terluka','Umi Kholiifah',
 'Aditiya Sarofi Putra','NOOB GAMING','phim lẻ','Jordwun lrus','gan bro','Gan Bro','bot siji',
 'bot loro','bot telu','yu di','aryant259','Janandito W',
 'arifin','Noob Player','yoyomamam90@gmail.com','Andi Aas','elang aja','Muhammad Paijo','Sutejo','Siti Azizah','Dian Kartika','Budi Aas','Raby Aas',
@@ -98,9 +98,9 @@ $data= ['H84391',
  'Richard Kennedy','Sare','Dila','Tiara','Ema','Sandi','Duda','Tari','Ema','Liman','ғᴜɴ 3x','Anas Ali Tegar','Daku Bhai','Tatang Charles','Dea Pitaloka','Ex Treme','Khusnan','Fatwa Gaming','Sandi Main','Eko Prasdeatre','Heri Deafour','Jono Deafivi','Bejo Deasix','Hari Deaseven','Sugik Deaeigh','Tio','Tukang Nuyul','Hariyantoa','Владислав Белов','Hariantob','Hariantoc','Agus Safirudin','Sandi Pratama','Sandi','Rere','Sarwo','Bahlul','Tikno','Carry Chandra','Sidiq Pangestu','Adi Bordir','Jennifer Ballard',
 'Jono Khairurin','Andri','Badriya','Bambang','Baidi','Beby','Bejo','Fa_dhil7','Oje Ardi','Risnado','fadlan tuwaffa','Shela Samsung',
 /*
- 'N58140','O10784','J15232','V27584','M94778','V98855','H44906','U61395','N54577',
+ 'N58140','O10784','J15232','V27584','M94778','V98855','H44906','U61395',
  */
- 'Donny Suhendra','Wildan Zaki','Kaum Fals','Dodi Setiadi','Sule Sutisna',"Mayar Hutang",'Terry Soja','Rani Floren','K4note Vz','Zevorz Qone','Teh Ci','ARI PRADANA','Adit','Andika Boy','Mad Dog','Suya Siip','Fenjul','Durah','Buana','Ema','Sarry','Buana','Mahdi','Sarry','Gethux\'k Rassa Apha\'sadja','SunDul U','Luthfi Ahmad','Reyzall','Reyzall','Reyzall','Isra Novita','didik cahyono','didik cahyono','didik cahyono','didik cahyono','didik cahyono','ayra khoirunnisa','Nandang Triswanto','LUTHFI ZXC','Adelia Aurelia','semak233',
+ 'Donny Suhendra','Wildan Zaki','Kaum Fals','Sule Sutisna',"Mayar Hutang",'Terry Soja','Rani Floren','K4note Vz','Zevorz Qone','Teh Ci','ARI PRADANA','Adit','Andika Boy','Mad Dog','Suya Siip','Fenjul','Durah','Buana','Ema','Sarry','Buana','Mahdi','Sarry','Gethux\'k Rassa Apha\'sadja','SunDul U','Luthfi Ahmad','Reyzall','Reyzall','Reyzall','Isra Novita','didik cahyono','didik cahyono','didik cahyono','didik cahyono','didik cahyono','ayra khoirunnisa','Nandang Triswanto','LUTHFI ZXC','Adelia Aurelia','semak233',
 'Irawati','norie espino','Reyzall','Reyzall','Reyzall','Reyzall','Reyzall','Reyzall','Putra','Charis','Muhammad Fauzan','Gvz Dua','Kanda Kuan','rama ccc','Fachrul Rozzy','Yafi\'ah Tri Ramdani Wijaya','Febriyan Muhammad','Brian','Ciplay Nub','Guancok','Guabruel','Silvia','Muhammad Rafli','creator pro','Maman Hilman','Rara Puspita II',' 　 ꧾꧾ','Rahayu Sarah','Febri','Namaku Panjang','Namaku Panjang','Anfort Sadase','Gian Puqi','Reyzall','Kus Irawan','AGila','Reyzall','Feni Wati','Ghani Ahmad','Reyzall','Hani Dyan','Reyzall','Indra Karim','Reyzall','Reyzall','Jeni Ira','Reyzall','Rizki Dian Ananda','Reyzall','Wolu Pitu','Karim Ahmad','Lena Ayu','Mikazuki','Muh Ryan','hanz moo',
 'Mario Banu','Nana Eti','Obi Raihan','Reyzall','U Chinx','Reyzal','Reyzall','Rikudo Minggu','Rey Zall','Ryzal','Fachroni Sofyan Bachrin','VIP Generation [OFFICIAL]','Roni Bachrin','esta rosa','Garmer Max 18','ꦑꦺꦴꦲꦶꦫꦸꦭ꧀','Zainal','rizkirmdn','Man Jada','Cply 12','Ciplay 13','Y81914','cekcok aje','Sarif Hidayat',
 'Putra Lyn','Peni Silvi','Qiqi Indra','Rara Riri','Desty Anggrayuni','Steven Junior','Tina Janah','Rizki Amanda','Jajang','Nurjaman','Ainx','Dwi Bagus','Rafif Setiawan','santy fibrianty','Johnson Amatir','Putra Gans','Thio Aditya','ilhamm akbr','Ayase Chihaya','Ilyas Ar Rafii','Tutorial IT','Della Bore','Apip Hidayat','Rezky Afr','Mio Oi','Nuyu Siji','sungging','Nuyul Loro','Nuyul Telu','Nuyul Papat','Nuyul Limaa','Cah SAMDIK','Nuuyul Enem','Mas Boot','Nuyul Pitu','Nuyul Wolu','Nuyul Sanga','Nuyuul Seepuluh','Nuyull Sewelas','Nuyul Rolas','Nuyul Telulas','Nuyul Patbelas','Nuyul Limalas','Mas Agung','Mas Galu','Mas Adit','Mas Niko','Mas Genji','Mahmudin BJ','Belajar Bareng','Nuyul Kedua','Mas Jonek','Mas Ariel','Mas Maeli',
@@ -141,16 +141,16 @@ $data= ['H84391',
 
 'Remkidz','Febri','Ramadhan Firman','Fathol','andi.dika3460@gmail.com','Black Bolt','rezza curut46','Nicholas Parasian','SetiaAja','Igg Igg','Sukri Sabar','11 11','nggak JELAS','Erlangga Cliquerz','The Dion','Ucoq','Ucoq','Kiki Jarrodt','Rhavael Sumilat','M Lan','Rokim Wae','Anu','re za','Dyland Dildo','Bayu Apriyanto','Apung Arniadi Gunawan','kevin Soetri','ariba Game','Smart B0y','rislan3yakin@gmail.com','Pahadangan Hajanah','Patrick Mark','Wewei','Koko','Adi Rano lee','hasanudin','Anu Vps','Kopay Hideng','Ardiansyah Dalimunthe','Feri Setiawan','ESA BVC','David Dtse','omujundwrt@gmail.com','Dede Brayen','muhammad fik','sumaj500@gma','Iantiger92','Fears Nothing','Christian Tindoc','Fear he who ','R AN','Ari Setiabud','pencinta gamers','Soni Herman','Jupe Suca','fadhlyiqbal3@gmail.com','jokokolo76@gmail.com','Lap','Agni Yusuf','faisal04','Rizki Wardana','Yusfachlevi ','Yusfachlevi Reza R','faisal Alamsyah','arief nabhan','Arsya Zain','Fahbel','Dede Lesmana','Seiya','Quanqi','danu wiranugraha','Dwi Vankurie',
 'Andika','Leek Tutoriais','Febri Listio','Faisal Alamsyahh','Faisal Alamsyah','internet news','Gilang\'198 \'','Skyline Missing','Jeff Mamun','Ahmad Fahreji','Akun Veeu2','Naska Ridho','Rizal Anugrah','Lucas Martin Biasi','Den Mas Bagus','New No Name','Akunku Kehack','Aksanjr Jr','YT Zam Lagu','Guris Ceng','Toni Lamon','Lintang Aca','Kharismadani gdz','Guyskid Hastawangi','Bagi ga Gamin','Ifah Latifah','Joyo Bendot','asep mulyana','Bang Slow','aris mulyana','Rima Susanti','Angga15','Excel Pradna','Faiz Yahya','teman Explorer','Dimas Homies','Kapten Vunkky','Upin Ipin','Asep Kurniadi','DANIEL ANCHU','Muhammad Syarif','Putri Andini','RfiRsky12','Ainul Rhamadhan','Rudy Bae','Matrix Mango','Cholid Achmad','mobilelegend87 baru','Arispubji','Amana Putri','Aldi Yahya','aldi yahya','Bong Parl','Deedee','Miftah Fauzy','phellnandhol official','Andy SkyLine','Km Krisnuartha','akun baru','Bakul Gambar','Experimental Music','ПРИКОЛ ГИФ','Cerme Raya','Cahyo Bhudhy','Annas Arya','dhimas aulia','sandika uchiha','Rakha Nurraffa','xangiox','Cokerzz Gamingzz','Rockman Sullivanz','Agus Setiawan','onyip gedang',
-'yogi pratama','Ankaira Pram','Jihan Xfrendz','Purnama Agung','CHRLT Channel','serenamonic1','Lintang Nurul Kh','bento yalle','Faris Hizba Hisbullah','nyoman nyoman','Begger Crypto','Mode Pesawat','Syahrul Taufik','amar arwed','daniel roserbut','Chandra Adi M','Septian Apriansyah (septianaps)','giw pisan','YASER MEDIA','Mirjan Hidayat','ramadoni','Jav Gaming','Rangga Kusum','poli robot','Dicka Setiawan','Rifkii Setiawann','Rifki Setiawan','Ilham Maulana Sukma','Azis Herjunot','ajudantuyul100@gmail.com','Rahul Khan','Fathor Hoir','taofiksar03@gmail.com','Hafri yanto','Rian Enx','Dodi Setiadi',
+'yogi pratama','Ankaira Pram','Jihan Xfrendz','Purnama Agung','CHRLT Channel','serenamonic1','Lintang Nurul Kh','bento yalle','Faris Hizba Hisbullah','nyoman nyoman','Begger Crypto','Mode Pesawat','Syahrul Taufik','amar arwed','daniel roserbut','Chandra Adi M','Septian Apriansyah (septianaps)','giw pisan','YASER MEDIA','Mirjan Hidayat','ramadoni','Jav Gaming','Rangga Kusum','poli robot','Dicka Setiawan','Rifkii Setiawann','Rifki Setiawan','Ilham Maulana Sukma','Azis Herjunot','ajudantuyul100@gmail.com','Rahul Khan','Fathor Hoir','taofiksar03@gmail.com','Hafri yanto','Rian Enx',
 //vip
 "N54577",
 //adidonk 
-'serenamonic1','Adam Ersanur','Wind Ci','Dodi Setiadi','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
+'Dodi Setiadi','serenamonic1','Adam Ersanur','Wind Ci','TANPA BATAS','Alifian Dzaki','LK tv','ilham maulana','Duki Duketo','Danang Mahmud','Alto Hadi Lukita Jaya','Adam Ersanur',
 'Putry We','Mhmd Jejen','ssophan channel','Ferdy Ndest','Nanang Hermansyah','Dede Mukhtar','Lastlah Anjing','Fauji Ikhwana','Red Roseate','Red Roseate','faisal ztm','mobile lengendary',
 //sungging
-'Safitri','ANAK TUTORIAL','Azis Herjuno','Dodi Setiadi','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman','Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star','Muhammad Irman Raya','Purwono','Ikbal Kepalasuku Ujungpanrang','baca plus','Lucky Lucky','Zedrik Bam','Rahma Only\'For One\'Heart','Muhammad Zafran Alfariq','Agara Net',
+'Safitri','ANAK TUTORIAL','Azis Herjuno','Eka Jaya','Aji Maulana','Klasynky Gege','DEni Muach','Mustofa Agil','Viki Waluyo','TMCyber ArmyTM','Ferdy Rizaldi','Anun YK Ina','Len','Bilal Maulana','Maman','Angga Sena Casandra','paulsculd678@gmail.com','ANGGI','Muhammad Ikbal','Jrock Star','Muhammad Irman Raya','Purwono','Ikbal Kepalasuku Ujungpanrang','baca plus','Lucky Lucky','Zedrik Bam','Rahma Only\'For One\'Heart','Muhammad Zafran Alfariq','Agara Net',
 //input
- 'APRI YANTO','Aditya Ramad','Dodi Setiadi','Anun Dwi Yulianto','G62546','E27692',
+ 'APRI YANTO','Aditya Ramad','Anun Dwi Yulianto','G62546','E27692',
 'Veranda vee','Miyako Titin','Gugung Jagi','G12717','Sinyorie Enorie','Ventura','Sry Jayaa','Kontoru Sama','Kwarasan Kenapa','Fanss Milyha','game gue','Cemul','Milyha Dipa','Parzy Leor','Alifian Dzaki','Meka Alfin Permana','Tukang Copas','adieb nur hafidz','Milytha Pabji','Ridhos Hago','Ridho YK','Nogotirto YK','tuyul baru1','Thursina Anna','Dja Rot','Dini Suswanti','宙宜尺尹','Krisna Ilham','Yogi Martha','Kristiana Honnie pilsa','N\'chev Jepank','asepairil22@gmail.com','Muh Zuhdi','Kang Roki','Fachrurodzii','Moch Tham','Dìmoka Deo','Faris HariSandy','Muh Zuhdi','Rizaldi Alfian','Roselle Santos','yusufsapta31@gmail.com','Tajul Arifin','Lesley El','Angel Putri','fara ciprit10','Maniac Receh','Alana Basil','EL Frank Ethan','ksupri541@gmail.com','mawar150690@gmail.com','Salsabila','Acek Wew','Kokyu Misariu','Dejon Raon','Joko Sutopo','Barep Pras W',                       'Galuh Prayoga','ramdhan achmad','Aji Saputra Ramadan','Hendra','Dany Catur','EJ','Setya Rangga','Arief Poenya','Ardy LoveHeaven Nabilla','Adi Samsul','Clay Dark','egi pangestu','凡Ɗιs ANDEZ','RANGGEN I-on','joni joni',
 'Ahmad Syarifudin','Anime Indo','Vipsaw','Heels Ru','Mardha Waty','andi arjuna','GAREL Hent.','Tian Sopyan','Yanuar Fernandez','Afin Bachtiar','Minu Suherman','King Bug','Dwi Putra','BAHNDITE','Gelas Akua','Febri Hamunangan','Dhanka Maaikha','maru dressden','miftakhul arif','Rahmat Julianto','prayoga galuh','Alfian Tamran',
 'Berog Gan','sa ngak','samplokndasmu4@gmail.com','barep praset','Gillang Ellyntina','afara har','Gilang 973','Zackriyya Wong','Curang DROID','Ardy Van Houten','Ahmad Fallz','Mario Teguh','TERBIT SANG SURYA','Dede Mukhtar','Adhy Samsul',
