@@ -54,7 +54,7 @@ $data= ['H84391',
 'info hits','Per-mana','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
 'Admipoel 8',
 //rf
-'Rifky Sadega','Dodi Setiadi','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
+'Rifky Sadega','Dodi Setiadi','Shinta Sherlina','Mama Jahat','Papa Jahat','Tuyul Laknat','Bocah Tua','Bocah Nakal','Dini Amalia','Tuyul Tampan','Daniel Pedrosa','Tuyul Amanah','Game D','Tuyul Imut','Sandra Anugrah','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
 'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Gɾȅ Ȅnɗ','sentotsrd68@gmail.com',
 'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
 'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','ferdi akatsuki','Kiki Ucup',
