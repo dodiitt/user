@@ -12,7 +12,7 @@ echo $biru."======================================".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'Invite'.$putih.'[-] code: '.$ijo.'N54577';
 $ads= $putih.'[*] '.$ijo.'Masukan '.$putih.'[-] code: '.$ijo.'N54577';
-$msgtoto = "[!] Enjoyyuuy".$t.$ijo."[•••••] sekilas info [••••••]
+$msgtoto = "[!] Enjoyyy".$t.$ijo."[•••••] sekilas info [••••••]
 hallo guys apa kabar
 yang masih setia menunggu update script terbaru toto
 sedikit sy jelaskan perjalanan kita
@@ -50,7 +50,7 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
-$msgwe = "[•] Enjoyyu";
+$msgwe = "[•] Enjoyyyy";
 $msgveeu = "[!] Subscribe Free : https ://youtube.com/permana29";
 $data= ['H84391',
 //info
