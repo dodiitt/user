@@ -19,12 +19,12 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
-$msgwe = "[•] Subscribe itu gratis : https://youtube.com/permana29";
-$msgveeu = "[!] Subscribe Free : https ://youtube.com/permana29";
+$msgwe = "[•] ";
+$msgveeu = "[!] ";
 $data= ['H84391',
 //info
 'info hits','Per-mana','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
-'Admipoel 8',
+'Admipoel 8','dodit',
 //rf
 'Rifky Sadega','Dodi Setiadi','Shinta Sherlina','Mama Jahat','Papa Jahat','Tuyul Laknat','Bocah Tua','Bocah Nakal','Dini Amalia','Tuyul Tampan','Daniel Pedrosa','Tuyul Amanah','Game D','Tuyul Imut','Sandra Anugrah','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
 'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Gɾȅ Ȅnɗ','sentotsrd68@gmail.com',
