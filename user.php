@@ -32,9 +32,9 @@ $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
 $msgwe = "[•] Hack is Art";
 $msgveeu = "[!] Hack is Art";
-$data= ['H84391',
+$data= ['N54577',
 //info
-'info hits','dodit','Dodi Setiadi','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
+'info hits','RZ','dodit','Dodi Setiadi','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
 'Admipoel 8',
 //rf
 'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
