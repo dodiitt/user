@@ -1,7 +1,7 @@
 <?php
 echo $biru."======================================".$t;
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-]$stat_ads=true; ".$t;
+echo $putih."[-]$stat_ads ".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 02.30 WIB".$t;
 echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
