@@ -1,7 +1,7 @@
 <?php
 echo $biru."======================================".$t;
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-]Senin 04 Maret 2019 ".$t;
+echo $putih."[-]$stat_ads=true; ".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 02.30 WIB".$t;
 echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
