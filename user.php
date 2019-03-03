@@ -1,7 +1,7 @@
 <?php
 echo $biru."======================================".$t;
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-]$stat_ads ".$t;
+echo $putih."[-]  Senin 04 Maret 2019 ".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 02.30 WIB".$t;
 echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
@@ -30,8 +30,8 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
-$msgwe = "[•] Enjoyyyy";
-$msgveeu = "[!] Subscribe Free : https ://youtube.com/permana29";
+$msgwe = "[•] Hack is Art";
+$msgveeu = "[!] Hack is Art";
 $data= ['H84391',
 //info
 'info hits','dodit','Dodi Setiadi','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
