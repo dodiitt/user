@@ -1,7 +1,7 @@
 <?php
 echo $biru."======================================".$t;
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-] DateTime()".$t;
+echo $putih."[-] ".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 02.30 WIB".$t;
 echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
@@ -50,7 +50,7 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
-$msgwe = "[•] Subscribe itu gratis : https://youtube.com/permana29";
+$msgwe = "[•] Enjoyyu";
 $msgveeu = "[!] Subscribe Free : https ://youtube.com/permana29";
 $data= ['H84391',
 //info
