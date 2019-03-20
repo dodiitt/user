@@ -25,9 +25,9 @@ $msgwe =
 $donasi=true;
 $msgveeu = "[!] update skrip veeu".$t."[•] git clone https://github.com/adidoank/veeu";
 
-$data= ['N54577',
+$data= ['Z87129',
 //info
-'info hits','RZ','dodit','Dodi Setiadi','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
+'info hits','RZ','dodit','Dodi Setiadi','Dodhie Setiadi','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
 'Admipoel 8',
 //rf
 'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
